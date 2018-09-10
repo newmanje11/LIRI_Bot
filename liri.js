@@ -108,7 +108,7 @@ function spotify(song){
     });
 }
 
-function addLog() {
+function doThing() {
     //run readFile and store the read information into the variable "data"
     fs.readFile("random.txt", "utf8", function(err, data) {
         if (err) {
