@@ -1,27 +1,18 @@
 {
-  "name": "LIRI_Bot",
+  "name": "hw11test2",
   "version": "1.0.0",
   "description": "",
-  "main": "LIRI_bot.js",
+  "main": "liri.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/newmanje11/LIRI_Bot.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/newmanje11/LIRI_Bot/issues"
-  },
-  "homepage": "https://github.com/newmanje11/LIRI_Bot#readme",
   "dependencies": {
     "dotenv": "^6.0.0",
-    "moment": "^2.22.2",
+    "fs": "0.0.1-security",
     "node-spotify-api": "^1.0.7",
-    "request": "^2.88.0",
-    "save": "^2.3.2"
+    "request": "^2.88.0"
   }
 }

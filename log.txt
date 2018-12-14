@@ -1,20 +1,58 @@
 
-Title of the movie: The Emoji Movie
- Year the movie came out: 2017
- IMDB Rating of the movie: 3.2
- Country where the movie was produced: USA
- Language of the movie:  English, Spanish
- Plot of the movie:  Gene, a multi-expressional emoji, sets out on a journey to become a normal emoji.
- Actors in the movie:  T.J. Miller, James Corden, Anna Faris, Maya Rudolph
- Rotten Tomatoes URL: http://www.rottentomatoes.com/m/the_emoji_movie/
+---------------------------------------------------
+
+Name: Accorhotels Arena
+Date: 03/08/2019
+City: Paris
+Country: France
+
+---------------------------------------------------
+
+Date: 03/13/2019
+Name: Accorhotels Arena
+
+---------------------------------------------------
 
 
-Title of the movie: The Emoji Movie
- Year the movie came out: 2017
- IMDB Rating of the movie: 3.2
- Country where the movie was produced: USA
- Language of the movie:  English, Spanish
- Plot of the movie:  Gene, a multi-expressional emoji, sets out on a journey to become a normal emoji.
- Actors in the movie:  T.J. Miller, James Corden, Anna Faris, Maya Rudolph
- Rotten Tomatoes URL: http://www.rottentomatoes.com/m/the_emoji_movie/
+---------------------------------------------------
 
+City: Paris
+
+---------------------------------------------------
+
+Date: 03/15/2019
+City: Paris
+Country: France
+
+---------------------------------------------------
+
+Country: France
+Name: Accorhotels Arena
+
+---------------------------------------------------
+
+Name: Accorhotels Arena
+City: Paris
+Country: France
+
+---------------------------------------------------
+
+Date: 03/16/2019
+Error occurred: StatusCodeError: 400 - {"error":"invalid_client","error_description":"Invalid client"}
+Error occurred: StatusCodeError: 400 - {"error":"invalid_client","error_description":"Invalid client"}
+Error occurred: StatusCodeError: 400 - {"error":"invalid_client","error_description":"Invalid client"}
+Title: Mr. Nobody
+
+---------------------------------------------------
+
+Release Year: 2009
+Rotten Tomatoes Rating: 67%
+IMDB Rating: 7.9
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Language: English, Mohawk
+Country: Belgium, Germany, Canada, France, USA, UK
+
+---------------------------------------------------
+
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+Error occurred: StatusCodeError: 400 - {"error":"invalid_client","error_description":"Invalid client"}
